@@ -1,3 +1,9 @@
+# Peter Edvardsson's First CS193 Homework
+## Cool things about CS193
+- Peer instructors who aren't boring professors
+- Fast paced content optimized to my tiktok generation brain
+- Relaxed meeting schedule of once per week
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
